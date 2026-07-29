@@ -1,11 +1,11 @@
-**⚠️ This repository has moved to https://github.com/Unity-Legal-Affairs/ir-datasets**
+**⚠️ This repository has moved to https://github.com/Unity-Legal-Affairs/ir_datasets**
 
 # ir_datasets
 
 `ir_datasets` is a python package that provides a common interface to many IR ad-hoc ranking
 benchmarks, training datasets, etc.
 
-It can now be found [here](https://github.com/Unity-Legal-Affairs/ir-datasets).
+It can now be found [here](https://github.com/Unity-Legal-Affairs/ir_datasets)).
 
 ```
 @inproceedings{DBLP:conf/sigir/MacAvaneyYFDCG21,
